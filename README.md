@@ -11,6 +11,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/pooja701691?label=Follow&style=for-the-badge&logo=github&color=6D5DFC)](https://github.com/pooja701691?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=pooja701691&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)](https://github.com/pooja701691)
 
+<br />
+
+<img src="./34-achievements.svg" width="420" alt="34 GitHub achievements" />
+
 </div>
 
 ---
