@@ -1,21 +1,179 @@
-# 💫 About Me:
-Hi 👋, I'm Pooja Jaiswal<br><br>✨ Full-Stack Developer | Java (DSA 🧩) | MERN Stack<br><br>🚀 Currently building: Smart Waste Postcode Management System<br><br>🤖 AI Tech Stack (thoda over-smart side 😄):<br>Playing around with AI stuff like chatbots 🤖 (jo kabhi smart lagte hain, kabhi mood pe depend 😅),<br>prompt engineering 🧠 (AI ko sahi tareeke se samjhana),<br>APIs integration 🔗 (AI ko app me smoothly fit karna),<br>and thoda bahut ML concepts 📊 (itna ki impress ho jao, par PhD wala nahi 😂)<br><br>📚 Currently learning: MERN Stack 🛠️, Java ☕, React + TypeScript ⚛️ & AI 🚀<br><br>🌐 Check out my projects on GitHub 💻<br><br>⚡ Love building scalable apps 🏗️, AI tools 🤖 & clean UIs 🎨<br><br> B.Tech CSE 🎓 @ Buddha Institute of Technology<br>
+<!-- Premium GitHub Profile README for Pooja Jaiswal -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3C3Ob03q7) 
+# Pooja Jaiswal
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Generative+AI+Developer;RAG+Systems+Enthusiast;Agentic+AI+Explorer;AI+Orchestration+%26+Guardrails)](https://github.com/pooja701691)
 
+**Building scalable full-stack applications and exploring intelligent AI systems.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/pooja701691?label=Follow&style=for-the-badge&logo=github&color=6D5DFC)](https://github.com/pooja701691?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=pooja701691&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)](https://github.com/pooja701691)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pooja701691&limit=5&theme=default&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pooja701691&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a **Full Stack Developer** interested in combining modern web technologies with practical, AI-powered applications. I enjoy building end-to-end software, understanding application architecture, and improving how information moves through reliable systems.
+
+My current interests include:
+
+- Building complete web applications with maintainable backend and frontend architectures.
+- Developing RAG-based document question-answering systems grounded in uploaded knowledge.
+- Exploring AI agents, tool calling, and multi-step AI workflows.
+- Learning AI orchestration, structured outputs, validation, and retry strategies.
+- Designing useful, responsible, and reliable Generative AI applications.
+
+---
+
+## Technical Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+### Generative AI and LLMs
+
+![LLMs](https://img.shields.io/badge/Large_Language_Models-Interested-6D5DFC?style=flat-square)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-Learning-7AA2F7?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings_&_Vector_Search-Learning-7AA2F7?style=flat-square)
+![Document QA](https://img.shields.io/badge/Document_QA-Learning-7AA2F7?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Practice-7AA2F7?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/AI_Tool_Calling-Learning-7AA2F7?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistralai&logoColor=white)
+
+### Agentic AI and Orchestration
+
+AI Agents · Agentic AI Workflows · Tool Integration · Workflow Orchestration · Multi-Step Processing · Context Management
+
+### AI Reliability and Guardrails
+
+Structured Output Validation · Schema Validation with Zod · Input and Output Validation · Error Handling · Retry Strategies · Responsible AI Application Design
+
+---
+
+## Featured Projects
+
+### AI-Powered GitHub PR Review Bot
+
+An AI-assisted code review application that analyzes GitHub pull requests for potential bugs, security concerns, performance issues, and code quality improvements.
+
+`Node.js` `JavaScript` `GitHub API` `Octokit` `Inngest` `Mistral AI` `Zod`
+
+[![Repository](https://img.shields.io/badge/View_Repository-Repository_Link_Pending-181717?style=for-the-badge&logo=github)](#)
+
+---
+
+### Smart Restaurant Assistant
+
+An AI-powered restaurant chatbot for menu questions and dish recommendations based on budget, meal category, dietary preferences, and spice level. Includes AI tool calling and persistent conversation history.
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `LangChain` `Google Gemini`
+
+[![Repository](https://img.shields.io/badge/View_Project-20232A?style=for-the-badge&logo=github)](https://github.com/pooja701691/craveai)
+
+---
+
+### Bhojpuri Multilingual Document QA System
+
+A document question-answering system enabling users to ask questions in Bhojpuri and receive answers grounded in uploaded documents. The system explores PDF text extraction, chunking, embeddings, vector search, multilingual question answering, and reranking.
+
+`PDF Processing` `Chunking` `Embeddings` `Vector Search` `Multilingual QA` `Reranking`
+
+[![Repository](https://img.shields.io/badge/View_Repository-Repository_Link_Pending-181717?style=for-the-badge&logo=github)](#)
+
+---
+
+### Smart Waste Management System
+
+A waste management application focused on improving collection operations through route planning, collection point management, map-based route visualization, and optimized collection routes.
+
+`Full Stack Development` `Maps` `Route Planning` `Collection Management` `Optimization`
+
+[![Repository](https://img.shields.io/badge/View_Repository-Repository_Link_Pending-181717?style=for-the-badge&logo=github)](#)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pooja701691&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub profile statistics for pooja701691" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja701691&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" alt="Most used programming languages for pooja701691" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pooja701691&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=C0CAF5&currStreakNum=C0CAF5&dates=9AA5CE" alt="GitHub contribution streak for pooja701691" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja701691&hide_border=true&bg_color=0D1117&color=C0CAF5&line=7AA2F7&point=BB9AF7" alt="GitHub contribution activity graph for pooja701691" />
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Advanced RAG pipeline architecture
+- Retrieval optimization and reranking techniques
+- Agentic AI architectures and tool ecosystems
+- AI workflow orchestration
+- AI guardrails and structured output validation
+- Reliable and maintainable LLM application development
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-pooja701691-181717?style=for-the-badge&logo=github)](https://github.com/pooja701691)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile_Link_Pending-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Link_Pending-6D5DFC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.example/)
+[![Email](https://img.shields.io/badge/Email-Address_Pending-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Focused on building reliable software and intelligent systems.
+
+*Full Stack Development × Generative AI × RAG × Agentic Workflows*
+
+</div>
