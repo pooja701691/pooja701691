@@ -20,8 +20,7 @@ I am a Full Stack Developer passionate about building practical software solutio
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=pooja701691&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=pooja701691&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pooja701691&theme=dark&hide_border=false&hide=Jupyter%20Notebook&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja701691&theme=dark&hide_border=true&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Python&custom_title=My%20Top%20Languages)
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
