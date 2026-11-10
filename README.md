@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pooja Jaiswal!
 
-### Full Stack Developer | Generative AI | RAG | Agentic AI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=600&lines=Full+Stack+Developer;Generative+AI;RAG+Developer;Agentic+AI+Enthusiast)](https://git.io/typing-svg)
 
 Building scalable full-stack applications and exploring intelligent AI-powered systems.
 
