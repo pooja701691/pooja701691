@@ -18,7 +18,7 @@ I am a Full Stack Developer passionate about building practical software solutio
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ARNAB-bughunter&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=pooja701691&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ARNAB-bughunter&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ARNAB-bughunter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
