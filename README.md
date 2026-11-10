@@ -1,4 +1,4 @@
-## 👩‍💻 About Me
+## 👋 About Me
 
 I am a **Full Stack Developer** interested in combining modern web technologies with practical, AI-powered applications. I enjoy building end-to-end software, understanding application architecture, and improving how information moves through reliable systems.
 
@@ -27,7 +27,7 @@ My current interests include:
 
 **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Generative AI and LLMs
 
@@ -89,17 +89,19 @@ A waste management application focused on improving collection operations throug
 
 ## 📊 GitHub Stats
 
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=pooja701691&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub profile statistics for pooja701691" />
+### GitHub Overview
 
-<br />
+<img width="480" src="https://github-readme-stats.vercel.app/api?username=pooja701691&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub profile statistics for pooja701691" />
 
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=pooja701691&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=C0CAF5&currStreakNum=C0CAF5&dates=9AA5CE" alt="GitHub contribution streak for pooja701691" />
+### Contribution Streak
 
-<br />
+<img width="480" src="https://github-readme-streak-stats.herokuapp.com?user=pooja701691&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=C0CAF5&currStreakNum=C0CAF5&dates=9AA5CE" alt="GitHub contribution streak for pooja701691" />
+
+### Most Used Languages
 
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja701691&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" alt="Most used programming languages for pooja701691" />
 
-<br />
+### Contribution Activity
 
 <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=pooja701691&hide_border=true&bg_color=0D1117&color=C0CAF5&line=7AA2F7&point=BB9AF7" alt="GitHub contribution activity graph for pooja701691" />
 
@@ -107,9 +109,11 @@ A waste management application focused on improving collection operations throug
 
 ## 🏆 GitHub Achievements
 
+### Achievement Badge
+
 <img width="420" src="./34-achievements.svg" alt="34 GitHub achievements" />
 
-<br />
+### GitHub Trophies
 
 <img width="650" src="https://github-profile-trophy.vercel.app/?username=pooja701691&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub trophies for pooja701691" />
 
