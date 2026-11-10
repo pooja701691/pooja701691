@@ -17,10 +17,16 @@ I am a Full Stack Developer passionate about building practical software solutio
 
 ---
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=pooja701691&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pooja701691&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja701691&theme=dark&hide_border=true&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Python&custom_title=My%20Top%20Languages)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooja701691&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=pooja701691&theme=dark&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja701691&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Python&custom_title=Most%20Used%20Languages" />
+</p>
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
